@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "functional": "cpp",
+        "ostream": "cpp",
+        "quick_sort": "cpp"
+    }
+}
