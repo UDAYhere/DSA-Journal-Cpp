@@ -4,5 +4,6 @@
         "functional": "cpp",
         "ostream": "cpp",
         "quick_sort": "cpp"
-    }
+    },
+    "C_Cpp.dimInactiveRegions": false
 }
